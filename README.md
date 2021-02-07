@@ -22,7 +22,6 @@ Hi, I'm Jean, another common developer who loves to watch many Netflix movies, e
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
   <img src='https://i.gyazo.com/b6804ebea5d4b2a6c420a17901671221.png' height='42px'>
-  <img src='https://camo.githubusercontent.com/fc61dcbdb7a6e49d3adecc12194b24ab20dfa25b/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='42px'>
   <img height="42px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"/>
@@ -31,4 +30,6 @@ Hi, I'm Jean, another common developer who loves to watch many Netflix movies, e
   <img src='https://i.blogs.es/9e7f93/650_1000_julia/1366_2000.png' height='42px'>
   <img src="https://miro.medium.com/max/3150/1*yh90bW8jL4f8pOTZTvbzqw.png" height="42px" />
   <img height="42px" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg"/>
+  <br />
+   <img src='https://camo.githubusercontent.com/fc61dcbdb7a6e49d3adecc12194b24ab20dfa25b/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67' height='42px'>
 </p>
