@@ -15,24 +15,17 @@ Hi, I'm Jean, another common developer who loves to watch many Netflix movies, e
 
 <p align="center">
   <img height="42px" src="https://img.icons8.com/color/452/apollo.png" />
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/csharp.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'>
   <img height="42px" src="https://img.icons8.com/color/452/graphql.png" />
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
-  <img height="42px" src="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a6a65b8873.png" />
-  <img height="42px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"/> 
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='42px'>
   <img height="42px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"/>
-  <img height="42px" src="https://pablomagaz.com/content/images/2017/08/redux-2.svg">
-  <img height="42px" src="https://relay.dev/img/relay.svg">
   <img height="42px" src="https://iconape.com/wp-content/png_logo_vector/rxjs.png"/>
   <img height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWV_HgLeNqL2chI-m3M5KbhzUHceEZe9obw&usqp=CAU"/> 
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/unity.png' height='42px'>
+  <img src='https://cdn.iconscout.com/icon/free/png-512/unreal-engine-555438.png' height='42px'>
   <img height="42px" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg"/>
 </p>
