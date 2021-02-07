@@ -4,6 +4,8 @@ Hi, I'm Jean, another common developer who loves to watch many Netflix movies, e
 
 Developer of [Squanchy](https://discord.bots.gg/bots/637108716151504926), [Polls](https://discord.bots.gg/bots/663104539163099137) and [Jean Bot](https://discord.bots.gg/bots/732305355819843615).
 
+You can contact me via Discord `if#3897` or via email `jean@jean.host`. 
+
 <h2 align="center">Organizations</h2>
 <p align="center">A summary of organizations in which I participate.</p>
 
