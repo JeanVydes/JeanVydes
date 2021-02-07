@@ -27,5 +27,6 @@ Hi, I'm Jean, another common developer who loves to watch many Netflix movies, e
   <img height="42px" src="https://pbs.twimg.com/profile_images/879715096821460992/6DO-xqph_400x400.jpg"/>
   <img height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWV_HgLeNqL2chI-m3M5KbhzUHceEZe9obw&usqp=CAU"/> 
   <img src='https://i.blogs.es/9e7f93/650_1000_julia/1366_2000.png' height='42px'>
+  <img src="https://miro.medium.com/max/3150/1*yh90bW8jL4f8pOTZTvbzqw.png" height="42px" />
   <img height="42px" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg"/>
 </p>
