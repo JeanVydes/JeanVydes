@@ -2,7 +2,7 @@
 
 Hi, I'm Jean, another common developer who loves to watch many Netflix movies, every day I think about the complexity of the universe. I like quantum, astronomy, and programming.
 
-Developer of [Squanchy](https://discord.bots.gg/bots/637108716151504926), [Polls](https://discord.bots.gg/bots/663104539163099137) and [Jean Bot](https://discord.bots.gg/bots/732305355819843615).
+Developer of [Squanchy](https://discord.bots.gg/bots/637108716151504926), [Polls](https://discord.bots.gg/bots/663104539163099137) and [Jean Bot](https://aqskqeak.glitch.me/).
 
 You can contact me via Discord `if#3897` or via email `jean@jean.host`. 
 
