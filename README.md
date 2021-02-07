@@ -21,6 +21,8 @@ Hi, I'm Jean, another common developer who loves to watch many Netflix movies, e
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
+  <img src='https://miro.medium.com/max/6668/1*XP-mZOrIqX7OsFInN2ngRQ.png' height='42px'>
+  <img src='https://i.gyazo.com/e17f04b79175c3d54095702affc7436c.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='42px'>
   <img height="42px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"/>
