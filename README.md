@@ -1,5 +1,7 @@
 <h1 align="center">Jean</h1>
 
+Hi, I'm Jean, another common developer who loves to watch many Netflix movies, every day I think about the complexity of the universe. I like quantum, astronomy, and programming.
+
 <h2 align="center">Organizations</h2>
 <p align="center">A summary of organizations in which I participate.</p>
 
