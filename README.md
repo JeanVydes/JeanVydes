@@ -27,7 +27,6 @@ You can contact me via Discord `if#3897` or via email `jean@jean.host`.
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
   <img src='https://i.gyazo.com/b6804ebea5d4b2a6c420a17901671221.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='42px'>
   <img height="42px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"/>
   <img height="42px" src="https://pbs.twimg.com/profile_images/879715096821460992/6DO-xqph_400x400.jpg"/>
