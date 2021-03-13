@@ -37,5 +37,8 @@ You can contact me via Discord `if#3897` or via email `jean@jean.host`.
   <img height="42px" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg"/>
 </p>
 
+<br />
+<br />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanCarlosVR&show_icons=true&theme=dark&locale=en&layout=compact" alt="jean-top-languages" />
 <img src="https://github-readme-stats.vercel.app/api?username=JeanCarlosVR&show_icons=true&theme=dark&locale=en" alt="jean-stats" />
