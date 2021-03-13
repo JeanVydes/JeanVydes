@@ -22,6 +22,7 @@ You can contact me via Discord `if#3897` or via email `jean@jean.host`.
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
+  <img height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWV_HgLeNqL2chI-m3M5KbhzUHceEZe9obw&usqp=CAU"/> 
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
   <img src='https://i.gyazo.com/b6804ebea5d4b2a6c420a17901671221.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='42px'>
@@ -31,7 +32,6 @@ You can contact me via Discord `if#3897` or via email `jean@jean.host`.
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
   <img height="42px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"/>
   <img height="42px" src="https://pbs.twimg.com/profile_images/879715096821460992/6DO-xqph_400x400.jpg"/>
-  <img height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWV_HgLeNqL2chI-m3M5KbhzUHceEZe9obw&usqp=CAU"/> 
   <img src='https://i.blogs.es/9e7f93/650_1000_julia/1366_2000.png' height='42px'>
   <img src="https://miro.medium.com/max/3150/1*yh90bW8jL4f8pOTZTvbzqw.png" height="42px" />
   <img height="42px" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg"/>
