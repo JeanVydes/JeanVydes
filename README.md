@@ -28,7 +28,7 @@ You can contact me via Discord `if#3897` or via email `jean@jean.host`.
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
   <img src='https://i.gyazo.com/b6804ebea5d4b2a6c420a17901671221.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='42px'>
-  <img src='http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png' height='42px'>
+  <img src='https://www.vergic.com/wpsitefiles_de3fxs/wp-content/uploads/2017/04/logo.png' height='42px'>
   <img height="42px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"/>
   <img height="42px" src="https://pbs.twimg.com/profile_images/879715096821460992/6DO-xqph_400x400.jpg"/>
   <img height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWV_HgLeNqL2chI-m3M5KbhzUHceEZe9obw&usqp=CAU"/> 
