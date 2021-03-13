@@ -35,6 +35,7 @@ You can contact me via Discord `if#3897` or via email `jean@jean.host`.
   <img src='https://i.blogs.es/9e7f93/650_1000_julia/1366_2000.png' height='42px'>
   <img src="https://miro.medium.com/max/3150/1*yh90bW8jL4f8pOTZTvbzqw.png" height="42px" />
   <img height="42px" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg"/>
-  <br />
-   <img src='https://camo.githubusercontent.com/fc61dcbdb7a6e49d3adecc12194b24ab20dfa25b/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67' height='42px'>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanCarlosVR&show_icons=true&theme=dark&locale=en&layout=compact" alt="jean-top-languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=JeanCarlosVR&show_icons=true&theme=dark&locale=en" alt="jean-stats" />
