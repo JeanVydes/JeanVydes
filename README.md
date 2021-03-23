@@ -1,10 +1,10 @@
 <h1 align="center">Jean</h1>
 
-Hi, I'm Jean, another common developer who loves to watch many Netflix movies, every day I think about the complexity of the universe. I like quantum, astronomy, and programming.
+Hi, I'm Jean, another common developer. I like quantum, astronomy, and programming.
 
 Developer of [Squanchy](https://discord.bots.gg/bots/637108716151504926), [Polls](https://discord.bots.gg/bots/663104539163099137) and [Jean Bot](https://aqskqeak.glitch.me/).
 
-You can contact me via Discord `if#3897` or via email `jean@jean.host`. 
+You can contact me via Discord `Jeansito#9194` or via email `jean@jean.host`. 
 
 <h2 align="center">Organizations</h2>
 <p align="center">A summary of organizations in which I participate.</p>
