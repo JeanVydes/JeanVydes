@@ -19,22 +19,22 @@ You can contact me via Discord `if#3897` or via email `jean@jean.host`.
 <p align="center">A summary of my programming skills.</p>
 
 <p align="center">
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
-  <img height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWV_HgLeNqL2chI-m3M5KbhzUHceEZe9obw&usqp=CAU"/>
-  <img height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
-  <img src='https://i.gyazo.com/b6804ebea5d4b2a6c420a17901671221.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='42px'>
-  <img height="42px" src="https://img.icons8.com/color/452/apollo.png" />
-  <img height="42px" src="https://img.icons8.com/color/452/graphql.png" />
-  <img src='https://www.vergic.com/wpsitefiles_de3fxs/wp-content/uploads/2017/04/logo.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
-  <img height="42px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"/>
-  <img src="https://avatars.githubusercontent.com/u/743164?s=400&v=4" height='42px'>
-  <img src="https://miro.medium.com/max/3150/1*yh90bW8jL4f8pOTZTvbzqw.png" height="42px" />
-  <img height="42px" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg"/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'> 
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'> 
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'> 
+  <img height="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFWV_HgLeNqL2chI-m3M5KbhzUHceEZe9obw&usqp=CAU"/> 
+  <img height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"/> 
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'> 
+  <img src='https://i.gyazo.com/b6804ebea5d4b2a6c420a17901671221.png' height='42px'> 
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/react.png' height='42px'> 
+  <img height="42px" src="https://img.icons8.com/color/452/apollo.png" /> 
+  <img height="42px" src="https://img.icons8.com/color/452/graphql.png" /> 
+  <img src='https://www.vergic.com/wpsitefiles_de3fxs/wp-content/uploads/2017/04/logo.png' height='42px'> 
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'> 
+  <img height="42px" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"/> 
+  <img src="https://avatars.githubusercontent.com/u/743164?s=400&v=4" height='42px'> 
+  <img src="https://miro.medium.com/max/3150/1*yh90bW8jL4f8pOTZTvbzqw.png" height="42px" /> 
+  <img height="42px" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg"/> 
 </p>
 
 <br />
