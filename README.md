@@ -9,9 +9,11 @@ You can contact me via Discord `Jeansito#9194` or via email `jean@jean.host`.
 <h2 align="center">Project</h2>
 <p align="center">A summary of projects in which I create or collaborate.</p>
 
+<div align="center">
 | <a href="https://github.com/JeanCarlosVR/polls-bot" target="_blank">**Polls**</a> | <a href="https://github.com/JeanCarlosVR/squanchy" target="_blank">**Squanchy**</a> | <a href="https://github.com/JeanCarlosVR/dashboard-discord-ejs" target="_blank">**Dashboard (Jean Bot)**</a> | <a href="https://github.com/Mairon31/tnai" target="_blank">**TNAI**</a> | <a href="https://github.com/JeanCarlosVR/website-monitor" target="_blank">**Website Monitor**</a> | <a href="https://github.com/JeanCarlosVR/AuthGo" target="_blank">**AuthGo**</a> |
 |:---: | :---: | :---: | :---: | :---: | :---: |
 | <img align='center' src='https://cdn.discordapp.com/avatars/663104539163099137/7420c3c4d3ccb89f56b451d43552ef22.png?size=2048' height='100px'> |  <img align='center' src='https://cdn.discordapp.com/avatars/637108716151504926/0c3d6fd345525ea1cda6cc86298d7467.png?size=2048' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/40420163?s=400&v=4' height='100px'> | <img align='center' src='https://camo.githubusercontent.com/f26f35a93ed004727b308106dd21294e981c7e9a158ce73fb37f3daf808b37a1/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3730323034373430323332383139353135322f3736313432363532323035373334333030362f32303230303933305f3231333735322e706e67' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/40420163?s=400&v=4' height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/40420163?s=400&v=4' height='100px'> |
+</div>
 
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
