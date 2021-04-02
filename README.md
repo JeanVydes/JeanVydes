@@ -6,7 +6,7 @@ Developer of [Squanchy](https://discord.bots.gg/bots/637108716151504926), [Polls
 
 You can contact me via Discord `Jeansito#9194` or via email `jean@jean.host`. 
 
-<h2 align="center">Project</h2>
+<h2 align="center">Projects</h2>
 <p align="center">A summary of projects in which I create or collaborate.</p>
 
 
