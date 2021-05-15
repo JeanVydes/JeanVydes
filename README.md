@@ -38,5 +38,5 @@ You can contact me via Discord `Jeansito#9194` or via email `jean@jean.host`.
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanCarlosVR&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jean-top-languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=JeanCarlosVR&show_icons=true&theme=tokyonight&locale=en" alt="jean-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanVydes&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jean-top-languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=JeanVydes&show_icons=true&theme=tokyonight&locale=en" alt="jean-stats" />
