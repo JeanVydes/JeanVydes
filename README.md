@@ -4,7 +4,7 @@ Hi, I'm Jean, another common developer. I like quantum, astronomy, and programmi
 
 Developer of [Squanchy](https://discord.bots.gg/bots/637108716151504926), [Polls](https://discord.bots.gg/bots/663104539163099137) and [Jean Shortener](https://github.com/JeanShortener).
 
-You can contact me via Discord `Jeansito#9194` or via email `jean@jean.host`. 
+You can contact me via Discord `jv#6666` or via email `jean@jean.host`. 
 
 <h2 align="center">Projects</h2>
 <p align="center">A summary of projects in which I create or collaborate.</p>
