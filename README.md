@@ -35,7 +35,7 @@ You can contact me via Discord `jv#6666` or via email `jean@jean.host`.
   <img src="https://miro.medium.com/max/3150/1*yh90bW8jL4f8pOTZTvbzqw.png" height="42px" /> 
   <img height="42px" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg"/> 
   <br />
-  <img height="42px" src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/309px-Solidity_logo.svg.png" />
+  <img height="42px" src"https://www.ipresys.com/public/uploads/categories/categories_1622741308.png" />
 </p>
 
 <br />
