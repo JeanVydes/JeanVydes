@@ -34,7 +34,7 @@ You can contact me via Discord `jv#6666` or via email `jean@jean.host`.
   <img src="https://avatars.githubusercontent.com/u/743164?s=400&v=4" height='42px'> 
   <img src="https://miro.medium.com/max/3150/1*yh90bW8jL4f8pOTZTvbzqw.png" height="42px" /> 
   <img height="42px" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg"/> 
-  <img height="42px" src"https://solidity-es.readthedocs.io/es/latest/_images/logo.svg" />
+  <img height="42px" src"https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/309px-Solidity_logo.svg.png" />
 </p>
 
 <br />
