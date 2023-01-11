@@ -1,4 +1,4 @@
-# Jean Vydes
+# Hi 🤖
 
 - `Student`
 - `Fullstack Developer and Learning Blockchain Tech`
