@@ -2,4 +2,4 @@
 
 - `Student`
 - `Fullstack Developer and Learning Blockchain Tech`
-- `Golang Lover`
+- `Golang and Rust Lover`
