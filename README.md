@@ -1,6 +1,6 @@
 # Hi 🤖
 
 - `Student at` [`Universidad del Magdalena`](https://unimagdalena.edu.co)
-- `Enginner and Developer`
+- `Backend And Sometimes Frontend`
 - `Golang and Rust Lover`
 
